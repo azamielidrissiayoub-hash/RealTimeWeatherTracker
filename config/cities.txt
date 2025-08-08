@@ -1,0 +1,5 @@
+casablanca
+rabat
+tangier
+agadir
+marrakesh
