@@ -4,7 +4,7 @@ import json
 import time
 from datetime import datetime
 
-API_KEY = "bd5e378503939ddaee76f12ad7a97608"
+API_KEY = "bd5e378503939ddaee************"
 TOPIC = "weather_data"
 BROKER = "localhost:9092"
 CITIES_FILE = "../config/cities.txt"
